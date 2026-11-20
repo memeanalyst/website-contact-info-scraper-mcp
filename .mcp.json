@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "website-contact-info-scraper": {
+      "url": "https://mcp.apify.com?tools=fetch-actor-details,magnova/website-contact-info-scraper"
+    }
+  }
+}
